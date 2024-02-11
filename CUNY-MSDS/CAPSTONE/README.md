@@ -4,3 +4,7 @@
 ## Summary
 This study looks at data collected for 4180 movies representing the 200 movies per year by U.S. Box Office revenue between 2002-2022 and develops machine learning models to predict the box office revenue of movies. 
 
+## Contents of this Repository
+
+* [Read the paper](https://github.com/josh1den/portfolio/blob/main/CUNY-MSDS/CAPSTONE/Measuring_Star_Power_Josh_Iden_112623.pdf)
+
